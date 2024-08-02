@@ -1,0 +1,95 @@
+.navbar{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 650;
+    color: aliceblue;
+}
+.sec {
+
+    background-color: #1abc9c;
+    padding-bottom: 96px;
+    padding-top: 200;
+    text-align: center;
+
+}
+.sec img{
+width: 240px;
+height: auto;
+padding-top: 21pc;
+padding-bottom: 3rem;
+}
+
+.sec h1{
+    font-size: 64px;
+font-weight: 700;
+}
+.sec p{
+
+    font-size: 24px;
+}
+.orta{
+padding: 6rem;
+
+}
+.orta h2{
+    text-align: center;
+    font-size: 2.25rem;
+    line-height: 3rem;
+    margin-bottom: 10mm;
+
+}
+.orta img{
+    width: 100%;
+    height: auto;
+}
+.alt{
+    background-color: #1abc9c;
+    padding-bottom: 96px;
+    padding-top: 200;
+    text-align: center;
+}
+.alt h2{
+    background-color: #1abc9c;
+    padding-bottom: 96px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 3rem;
+    padding-top: 15mm;
+    line-height: 2rem;
+}
+.alt div {
+    background-color: #1abc9c;
+    font-size: 20px;
+color: aliceblue;
+}
+.alt button {
+    padding: 1rem 3rem;
+    font-size: 1.25rem;
+    border-width: 2px;
+    color: aliceblue;
+   
+    
+    
+}
+.altkısım{
+    background-color: #212529;
+    padding: 5rem 0 ;
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.altkısım h4{
+
+    font-size:24px ;
+    font-weight: 750px;
+}
+footer{
+background-color: #081520;
+text-align: center;
+color: aliceblue;
+font-size: 0.875em;
+padding-top: 1.5rem;
+padding-bottom: 1.5rem;
+font-size: 0.960em;
+}
